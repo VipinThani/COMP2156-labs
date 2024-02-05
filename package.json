@@ -4,7 +4,8 @@
   "description": "Comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: No ci confugured for now\""
   },
   "keywords": [],
   "author": "Vipin Thani",
